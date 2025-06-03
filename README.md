@@ -45,6 +45,7 @@ This allows me to identify things like:
 - Automate this credential auditing with **Python + boto3**.
 - Build a security alerting system using **AWS Lambda** and **CloudWatch**.
 - Write IAM policies that enforce secure configurations at scale.
+- EC2
 
 ---
 # Disclaimer
