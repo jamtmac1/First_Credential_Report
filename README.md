@@ -1,5 +1,5 @@
 # First_Credential_Report
-This repository contains my first AWS IAM Credential Report, as well as any subsequent. It is generated as part of my hands-on security auditing practice. This is a foundational exercise in identifying and understanding IAM user risk exposure across an AWS account.
+This repository contains my first AWS IAM Credential Report, as well as any subsequent. It is generated as part of my hands-on security auditing practice. This is a foundational exercise in identifying and understanding IAM user risk exposure across an AWS account..
 
 ---
 
